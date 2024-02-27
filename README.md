@@ -12,8 +12,9 @@ As a protectional data analyst, I will be using Excel to analyze the visualizati
 
 The United States government's National Park Services (NPS) is a federal organization that oversees all national parks, numerous national monuments, and numerous additional historical and conservation properties and environmental sites.
 
+**I will use the given data file to answer the business questions and offer ideas and answers in order to assist the organization in identifying patterns and further insight as well as to provide recommendations, measures, actions, and decisions to be made.**
 
-Questions
+**Business Questions:**
 
 1. How many people visited different parks in Colorado state?
 
